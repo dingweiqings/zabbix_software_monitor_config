@@ -1,0 +1,1 @@
+# zabbix_software_monitor_config
